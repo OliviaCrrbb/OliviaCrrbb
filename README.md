@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OliviaCrrbb
 - 🧠 I’m interested in Human Decision-Making, Bayesian Models of Brain, Neuroeconomics & Implicit Biases
-- 🌱 I’m currently learning Business Predictive Analytics 
+- 🌱 Currently learning Business Predictive Analytics 
 
 <!---
 OliviaCrrbb/OliviaCrrbb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
